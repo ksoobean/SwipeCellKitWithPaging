@@ -38,6 +38,7 @@ class ListView: UIView {
         // dataArray 임의 데이터 넣어주기
         for i in 1..<6 {
             dataArray.append("\(i)")
+            
         }
     }
 }
